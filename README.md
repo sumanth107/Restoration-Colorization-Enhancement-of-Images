@@ -20,3 +20,8 @@ The project provides a pipeline that efficiently performs image restoration, col
 ![image](out1.jpg)
 ![image](out2.jpg)
 ![image](out3.jpg)
+
+
+## References
+1. [R. Zhang, P. Isola, en A. A. Efros, “Colorful Image Colorization”, in Computer Vision -- ECCV 2016, 2016, bll](https://doi.org/10.1007/978-3-319-46487-9_40)
+2. [Wan, Ziyu & Zhang, Bo & Chen, Dongdong & Zhang, Pan & Chen, Dong & Liao, Jing & Wen, Fang. (2020). Old Photo Restoration via Deep Latent Space Translation](https://arxiv.org/abs/2009.07047)
